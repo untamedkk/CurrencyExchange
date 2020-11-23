@@ -1,0 +1,3 @@
+include ':currency_converter'
+include ':app'
+rootProject.name = "CurrencyExchange"
